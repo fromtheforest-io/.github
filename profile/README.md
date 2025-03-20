@@ -1,12 +1,5 @@
-## Hi there 👋
+## From The Forest | SaaS Agency & Incubator
 
-<!--
+We are a SaaS Incubator & Agency designed to help visionaries transform their software ideas into market-ready products—fast. Our mission is simple: streamline the path to launching a new SaaS platform by providing a robust, out-of-the-box starter kit while giving you the flexibility to customize every aspect to your unique needs. In essence, we offer “SaaS starter as a service,” delivering production-ready codebases and handling essential infrastructure so you can devote more time to perfecting your product’s core value proposition.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[hello@fromtheforest.io](mailto:hello@fromtheforest.io)
